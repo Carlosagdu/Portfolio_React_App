@@ -1,0 +1,59 @@
+{
+    "title": "Experience",
+    "subtitle": "Internship and Volunteership",
+    "header_image_path": "experience.svg",
+    "sections": [
+      {
+        "title": "Internships",
+        "experiences": [
+          {
+            "title": "Fullstack developer Intern",
+            "company": "First-Baptist church Scottsdale",
+            "company_url": "https://www.fbcscottsdale.church/",
+            "logo_path": "FBCScottsdale_logo.jpeg",
+            "duration": "January 2020 - May 2020",
+            "location": "Scottsdale, Arizona",
+            "description": [
+              "⚡ Responsible for setting up server-side code to allow the correct website functionality.",
+              "⚡ Configure frontend code to improve user experience on mobile devices",
+              "⚡ Setting up analytics scripts to study website monthly traffic and afterwards provide a report",
+              "⚡ Search Engine Optimization (SEO) implementation."
+            ],
+            "color": "#80aca8"
+          }
+        ]
+      },
+      {
+        "title": "Volunteerships",
+        "experiences": [
+          {
+            "title": "Volunteer",
+            "company": "Feed my starving children",
+            "company_url": "https://www.fmsc.org/",
+            "logo_path": "fmsc-web-logo.png",
+            "duration": "July 2019 - December 2019",
+            "location": "Mesa, Arizona",
+            "background": { "background": "blue" },
+            "description": [
+              "✋ At FMSC we packed meals for children in all around the world",
+              "✋ A day, it is possible to pack an approximate of 500 meals"
+            ],
+            "color": "#4285F4"
+          },
+          {
+            "title": "Volunteer",
+            "company": "Young Men's Christian Association",
+            "company_url": "https://www.ymca.net/",
+            "logo_path": "ymca_logo.png",
+            "duration": "Aug 2019 - December 2019",
+            "location": "Scottsdale, Arizona",
+            "description": [
+              " ✋ At YMCA we as volunteers help to lead education projects aim to kids.",
+              " ✋ We leaded sports tournament at ymca facilities during that semester."
+            ],
+            "color": "#D83B01"
+          }
+        ]
+      }
+    ]
+  }

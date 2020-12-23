@@ -1,0 +1,124 @@
+{
+    "what_i_do": "Mis conocimientos",
+    "data" : [
+        {
+            "title": "Desarrollo front-end",
+            "fileName": "FrontEndImg",
+            "skills": [
+                "⚡ Desarrollo de aplicaciones front-end receptivas usando React",
+                "⚡ Aplicaciones móviles usando React Native ",
+                "⚡ Pruebas unitarias para optimización en etapas de desarrollo y producción."
+            ],
+            "softwareSkills": [
+                {
+                    "skillName": "HTML5",
+                    "fontAwesomeClassname": "simple-icons:html5",
+                    "style": {
+                      "color": "#E34F26"
+                    }
+                },
+                {
+                    "skillName": "CSS3",
+                    "fontAwesomeClassname": "fa-css3",
+                    "style": {
+                      "color": "#1572B6"
+                    }
+                },
+                {
+                    "skillName": "JavaScript",
+                    "fontAwesomeClassname": "simple-icons:javascript",
+                    "style": {
+                      "backgroundColor": "#000000",
+                      "color": "#F7DF1E"
+                    }
+                },
+                {
+                    "skillName": "ReactJS",
+                    "fontAwesomeClassname": "simple-icons:react",
+                    "style": {
+                      "color": "#61DAFB"
+                    }
+                },
+                {
+                    "skillName": "Jest",
+                    "fontAwesomeClassname": "cib:jest",
+                    "style": {
+                      "color": "#15c213"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Infraestructura de servidor / backend",
+            "fileName": "CloudInfraImg",
+            "skills": [
+              "⚡ Desarrollo de servidores en entornos de Nodejs y el framework Express",
+              "⚡ Despliegue de proyectos desde las etapas de desarrollo a producción. ",
+              "⚡ Configuración de comunicación desde bases de datos a servidor o viceversa en Heroku.",
+              "⚡ Alojamiento y mantenimiento de applicaciones backend en instancias de máquinas virtuales junto con la integración de bases de datos"
+            ],
+            "softwareSkills": [
+              {
+                "skillName": "NodeJS",
+                "fontAwesomeClassname": "simple-icons:node-dot-js",
+                "style": {
+                  "color": "#339933"
+                }
+              },
+              {
+                "skillName": "Express",
+                "fontAwesomeClassname": "logos:express",
+                "style": {
+                  "color": "black"
+                }
+              },
+              {
+                "skillName": "MongoDB",
+                "fontAwesomeClassname": "simple-icons:mongodb",
+                "style": {
+                  "color": "#47A248"
+                }
+              },
+              {
+                "skillName": "MySql",
+                "fontAwesomeClassname": "simple-icons:mysql"
+              },
+              {
+                "skillName": "Heroku",
+                "fontAwesomeClassname": "logos:heroku-icon"
+              },
+              {
+                "skillName": "NPM",
+                "fontAwesomeClassname": "simple-icons:npm",
+                "style": {
+                  "color": "#CB3837"
+                }
+              }
+            ]
+          },
+          {
+            "title": "Diseño UI/UX",
+            "fileName": "DesignImg",
+            "skills": [
+              "⚡ Diseño de interfaces de usuario atractivas para aplicaciones móviles y web",
+              "⚡ Flujo de trabajo de aplicativos para optimizar la experiencia del usuario."
+            ],
+            "softwareSkills": [
+              {
+                "skillName": "Adobe XD",
+                "fontAwesomeClassname": "simple-icons:adobexd",
+                "style": {
+                  "color": "#FF2BC2"
+                }
+              },
+              {
+                "skillName": "Figma",
+                "fontAwesomeClassname": "simple-icons:figma",
+                "style": {
+                  "color": "#F24E1E"
+                }
+              }
+            ]
+        }
+    ]
+}

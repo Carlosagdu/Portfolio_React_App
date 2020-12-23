@@ -1,0 +1,17 @@
+{
+    "resume_link_text": "Descarga mi CV",
+    "contactSection": {
+        "title": "Acerca de mi",
+        "profile_image_path": "Carlos_profile.png",
+        "description":
+          "Estoy disponible en casi todas las redes sociales. Si necesita ayuda, le responderé dentro de las 24 horas. Puedo ayudarlo con tecnologías frontend y backend, bases de datos relacionales y no relacionales, pruebas unitarias y desarrollo de código abierto."
+      },
+      "blogSection": {
+        "title": "Blogs",
+        "subtitle":
+          "Para el empoderamiento fundamental individual, me gusta escribir lecciones poderosas que crean un impacto en nuestra sociedad.",
+        "link": "https://ashutoshhathidara.wordpress.com",
+        "avatar_image_path": "blogs_image.svg"
+      },
+    "blog_link_text": "Visita mi blog"
+}

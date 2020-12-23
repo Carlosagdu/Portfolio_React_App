@@ -1,0 +1,17 @@
+{
+    "resume_link_text": "See My Resume",
+    "contactSection": {
+        "title": "Contact Me",
+        "profile_image_path": "Carlos_profile.png",
+        "description":
+          "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with frontend as well as backend technologies, relational and non-relational databases, unit testing and open-source development. "
+      },
+      "blogSection": {
+        "title": "Blogs",
+        "subtitle":
+          "For fundamental individual empowerment, I like to write powerful lessons that create an impact on our society.",
+        "link": "https://ashutoshhathidara.wordpress.com",
+        "avatar_image_path": "blogs_image.svg"
+      },
+    "blog_link_text": "Visit My Blogsite"
+}

@@ -1,0 +1,39 @@
+#languageButton {
+  visibility: visible;
+  position: fixed;
+  top: 1.2rem;
+  right: 0.5rem;
+  cursor: pointer;
+  padding: 15px;
+  outline: none;
+  border-radius: 2rem;
+  font-size: 1.2 rem;
+}
+
+@media only screen and (max-width: 1007px) {
+  #languageButton {
+    visibility: visible;
+    position: absolute;
+    top: 4rem;
+    right: 0.5rem;
+    cursor: pointer;
+    padding: 15px;
+    outline: none;
+    border-radius: 2rem;
+    font-size: 1.2 rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #languageButton {
+    visibility: visible;
+    position: absolute;
+    top: 5.5rem;
+    right: 1rem;
+    cursor: pointer;
+    padding: 15px;
+    outline: none;
+    border-radius: 2rem;
+    font-size: 1.2 rem;
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Educación",
+    "subtitle": "Cualificaciones y certificaciones",
+    "header": "Grados recibidos",
+    "degrees" : [
+        {
+            "title": "Scottsdale Community College, AZ, United States",
+            "subtitle": "Certificate en programación y analisis de sistemas",
+            "logo_path": "SCC_logo.png",
+            "alt_name": "Scottsdale Community College logo",
+            "duration": "2019 - 2020",
+            "descriptions": [
+              "⚡ He estudiado materias de ingeniería de software tales como Estructuras de datos, Algoritmos, Programación orientada a objetos, Programación funcional, Sistema de gestión de bases de datos y Sistema operativo.",
+              "⚡ Aparte de esto, he realizado cursos sobre ciencia de datos y desarrollo web fullstack."
+            ],
+            "website_link": "https://www.scottsdalecc.edu/"
+          },
+          {
+            "title": "Instituto Educativo Bicentenario, Bucaramanga, Colombia",
+            "subtitle": "High School diploma",
+            "logo_path": "Bicentenario_logo.png",
+            "alt_name": "Instituto Educativo Bicentenario logo",
+            "duration": "2012-2017",
+            "descriptions": ["⚡ Diploma de escuela secundaria durante los años mencionados."],
+            "website_link": "https://www.iebicentenariobucaramanga.edu.co/"
+          }
+    ]
+}
