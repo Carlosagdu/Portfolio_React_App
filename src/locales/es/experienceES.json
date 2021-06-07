@@ -1,59 +1,81 @@
 {
-    "title": "Experiencia",
-    "subtitle": "Pasantias y voluntariados",
-    "header_image_path": "experience.svg",
-    "sections": [
-      {
-        "title": "Pasantias",
-        "experiences": [
-          {
-            "title": "Desarrollador fullstack Pasante",
-            "company": "First-Baptist church Scottsdale",
-            "company_url": "https://www.fbcscottsdale.church/",
-            "logo_path": "FBCScottsdale_logo.jpeg",
-            "duration": "January 2020 - May 2020",
-            "location": "Scottsdale, Arizona",
-            "description": [
-              "⚡ Responsable de configurar el código del lado del servidor para permitir la funcionalidad correcta del sitio web.",
-              "⚡ Desarrollo de código frontend para mejorar la experiencia del usuario en dispositivos móviles",
-              "⚡ Configurar scripts de análisis para estudiar el tráfico mensual del sitio web y luego proporcionar un informe",
-              "⚡ Implementación de optimización de motores de búsqueda (SEO)."
-            ],
-            "color": "#80aca8"
-          }
-        ]
-      },
-      {
-        "title": "Voluntariados",
-        "experiences": [
-          {
-            "title": "Voluntario",
-            "company": "Feed my starving children",
-            "company_url": "https://www.fmsc.org/",
-            "logo_path": "fmsc-web-logo.png",
-            "duration": "July 2019 - December 2019",
-            "location": "Mesa, Arizona",
-            "background": { "background": "blue" },
-            "description": [
-              "✋ En FMSC empacamos comidas para niños en todo el mundo",
-              "✋ Al dia, se lograba empacar un aproximado de 500 comidas"
-            ],
-            "color": "#4285F4"
+  "title": "Experiencia",
+  "subtitle": "Historial de trabajo y pasantias",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Historial de trabajo",
+      "experiences": [
+        {
+          "title": "Desarrollador de software fullstack",
+          "company": "Tiresia Soluciones Tecnologicas S.A.S.",
+          "company_url": "https://tiresia.com.co/",
+          "logo_path": "Tiresia_logo.png",
+          "duration": "Febrero 2021 - presente",
+          "location": "Bucaramanga, Colombia",
+          "description": [
+            "⚡ Desarrollar el principal servicio en la nube que brinda la empresa para sus clientes.",
+            "⚡ Escribir el código de back-end en Typescript para el entorno de tiempo de ejecución Node js",
+            "⚡ Crear la API Graphql para consumir desde la aplicación frontend",
+            "⚡ Escribir el código de front-end en Typescript (angular)",
+            "⚡ Prueba unitaria de las funcionalidades tanto en el frontend como en el backend del software"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pasantias",
+      "experiences": [
+        {
+          "title": "Desarrollador fullstack Pasante",
+          "company": "First-Baptist church Scottsdale",
+          "company_url": "https://www.fbcscottsdale.church/",
+          "logo_path": "FBCScottsdale_logo.jpeg",
+          "duration": "January 2020 - May 2020",
+          "location": "Scottsdale, Arizona",
+          "description": [
+            "⚡ Responsable de configurar el código del lado del servidor para permitir la funcionalidad correcta del sitio web.",
+            "⚡ Desarrollo de código frontend para mejorar la experiencia del usuario en dispositivos móviles",
+            "⚡ Configurar scripts de análisis para estudiar el tráfico mensual del sitio web y luego proporcionar un informe",
+            "⚡ Implementación de optimización de motores de búsqueda (SEO)."
+          ],
+          "color": "#80aca8"
+        }
+      ]
+    },
+    {
+      "title": "Voluntariados",
+      "experiences": [
+        {
+          "title": "Voluntario",
+          "company": "Feed my starving children",
+          "company_url": "https://www.fmsc.org/",
+          "logo_path": "fmsc-web-logo.png",
+          "duration": "July 2019 - December 2019",
+          "location": "Mesa, Arizona",
+          "background": {
+            "background": "blue"
           },
-          {
-            "title": "Voluntario",
-            "company": "Young Men's Christian Association",
-            "company_url": "https://www.ymca.net/",
-            "logo_path": "ymca_logo.png",
-            "duration": "Aug 2019 - December 2019",
-            "location": "Scottsdale, Arizona",
-            "description": [
-              " ✋ En la YMCA, como voluntarios, ayudamos a dirigir proyectos educativos dirigidos a los niños.",
-              " ✋ Se lidero torneos deportivos en las instalaciones de la organización."
-            ],
-            "color": "#D83B01"
-          }
-        ]
-      }
-    ]
-  }
+          "description": [
+            "✋ En FMSC empacamos comidas para niños en todo el mundo",
+            "✋ Al dia, se lograba empacar un aproximado de 500 comidas"
+          ],
+          "color": "#4285F4"
+        },
+        {
+          "title": "Voluntario",
+          "company": "Young Men's Christian Association",
+          "company_url": "https://www.ymca.net/",
+          "logo_path": "ymca_logo.png",
+          "duration": "Aug 2019 - December 2019",
+          "location": "Scottsdale, Arizona",
+          "description": [
+            " ✋ En la YMCA, como voluntarios, ayudamos a dirigir proyectos educativos dirigidos a los niños.",
+            " ✋ Se lidero torneos deportivos en las instalaciones de la organización."
+          ],
+          "color": "#D83B01"
+        }
+      ]
+    }
+  ]
+}

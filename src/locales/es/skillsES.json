@@ -1,124 +1,125 @@
 {
-    "what_i_do": "Mis conocimientos",
-    "data" : [
+  "what_i_do": "Mis conocimientos",
+  "data": [
+    {
+      "title": "Infraestructura de servidor / backend",
+      "fileName": "CloudInfraImg",
+      "skills": [
+        "⚡ Desarrollo de servidores en entornos de Nodejs usando Nestjs & Express",
+        "⚡ Creacion de API's RESTful & Graphql",
+        "⚡ Alojamiento y mantenimiento de aplicaciones backend en instancias de máquinas virtuales"
+      ],
+      "softwareSkills": [
         {
-            "title": "Desarrollo front-end",
-            "fileName": "FrontEndImg",
-            "skills": [
-                "⚡ Desarrollo de aplicaciones front-end receptivas usando React",
-                "⚡ Aplicaciones móviles usando React Native ",
-                "⚡ Pruebas unitarias para optimización en etapas de desarrollo y producción."
-            ],
-            "softwareSkills": [
-                {
-                    "skillName": "HTML5",
-                    "fontAwesomeClassname": "simple-icons:html5",
-                    "style": {
-                      "color": "#E34F26"
-                    }
-                },
-                {
-                    "skillName": "CSS3",
-                    "fontAwesomeClassname": "fa-css3",
-                    "style": {
-                      "color": "#1572B6"
-                    }
-                },
-                {
-                    "skillName": "JavaScript",
-                    "fontAwesomeClassname": "simple-icons:javascript",
-                    "style": {
-                      "backgroundColor": "#000000",
-                      "color": "#F7DF1E"
-                    }
-                },
-                {
-                    "skillName": "ReactJS",
-                    "fontAwesomeClassname": "simple-icons:react",
-                    "style": {
-                      "color": "#61DAFB"
-                    }
-                },
-                {
-                    "skillName": "Jest",
-                    "fontAwesomeClassname": "cib:jest",
-                    "style": {
-                      "color": "#15c213"
-                    }
-                }
-            ]
+          "skillName": "NodeJS",
+          "fontAwesomeClassname": "simple-icons:node-dot-js",
+          "style": {
+            "color": "#339933"
+          }
         },
         {
-            "title": "Infraestructura de servidor / backend",
-            "fileName": "CloudInfraImg",
-            "skills": [
-              "⚡ Desarrollo de servidores en entornos de Nodejs y el framework Express",
-              "⚡ Despliegue de proyectos desde las etapas de desarrollo a producción. ",
-              "⚡ Configuración de comunicación desde bases de datos a servidor o viceversa en Heroku.",
-              "⚡ Alojamiento y mantenimiento de applicaciones backend en instancias de máquinas virtuales junto con la integración de bases de datos"
-            ],
-            "softwareSkills": [
-              {
-                "skillName": "NodeJS",
-                "fontAwesomeClassname": "simple-icons:node-dot-js",
-                "style": {
-                  "color": "#339933"
-                }
-              },
-              {
-                "skillName": "Express",
-                "fontAwesomeClassname": "logos:express",
-                "style": {
-                  "color": "black"
-                }
-              },
-              {
-                "skillName": "MongoDB",
-                "fontAwesomeClassname": "simple-icons:mongodb",
-                "style": {
-                  "color": "#47A248"
-                }
-              },
-              {
-                "skillName": "MySql",
-                "fontAwesomeClassname": "simple-icons:mysql"
-              },
-              {
-                "skillName": "Heroku",
-                "fontAwesomeClassname": "logos:heroku-icon"
-              },
-              {
-                "skillName": "NPM",
-                "fontAwesomeClassname": "simple-icons:npm",
-                "style": {
-                  "color": "#CB3837"
-                }
-              }
-            ]
-          },
-          {
-            "title": "Diseño UI/UX",
-            "fileName": "DesignImg",
-            "skills": [
-              "⚡ Diseño de interfaces de usuario atractivas para aplicaciones móviles y web",
-              "⚡ Flujo de trabajo de aplicativos para optimizar la experiencia del usuario."
-            ],
-            "softwareSkills": [
-              {
-                "skillName": "Adobe XD",
-                "fontAwesomeClassname": "simple-icons:adobexd",
-                "style": {
-                  "color": "#FF2BC2"
-                }
-              },
-              {
-                "skillName": "Figma",
-                "fontAwesomeClassname": "simple-icons:figma",
-                "style": {
-                  "color": "#F24E1E"
-                }
-              }
-            ]
+          "skillName": "Nestjs",
+          "fontAwesomeClassname": "logos:nestjs"
+        },
+        {
+          "skillName": "Express",
+          "fontAwesomeClassname": "logos:express",
+          "style": {
+            "color": "black"
+          }
+        },
+        {
+          "skillName": "Graphql",
+          "fontAwesomeClassname": "logos:graphql"
+        },
+        {
+          "skillName": "Prisma ORM",
+          "fontAwesomeClassname": "logos:prisma"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Desarrollo front-end",
+      "fileName": "FrontEndImg",
+      "skills": [
+        "⚡ Desarrollo de aplicaciones front-end receptivas usando Angular & React",
+        "⚡ Interfaces amigables con los usuarios usando Bootstrap y CSS 3",
+        "⚡ Pruebas unitarias para optimización en etapas de desarrollo y producción."
+      ],
+      "softwareSkills": [
+        {
+          "skillName": "React",
+          "fontAwesomeClassname": "simple-icons:react",
+          "style": {
+            "color": "#61DAFB"
+          }
+        },
+        {
+          "skillName": "Angular",
+          "fontAwesomeClassname": "simple-icons:angular",
+          "style": {
+            "color": "#c3002f"
+          }
+        },
+        {
+          "skillName": "Bootstrap",
+          "fontAwesomeClassname": "logos:bootstrap",
+          "style": {
+            "color": "#563d7c"
+          }
+        },
+        {
+          "skillName": "JavaScript",
+          "fontAwesomeClassname": "simple-icons:javascript",
+          "style": {
+            "backgroundColor": "#000000",
+            "color": "#F7DF1E"
+          }
+        },
+        {
+          "skillName": "Typescript",
+          "fontAwesomeClassname": "logos:typescript-icon",
+          "style": {
+            "color": "#007acc"
+          }
+        },
+        {
+          "skillName": "Jest",
+          "fontAwesomeClassname": "cib:jest",
+          "style": {
+            "color": "#15c213"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Manejo de base de datos",
+      "fileName": "BackEndImg",
+      "skills": [
+        "⚡ Integracion con bases de datos SQL asi como tambien base de datos No-SQL ",
+        "⚡ Optimización de la base de datos para un mejor rendimiento en el flujo de datos"
+      ],
+      "softwareSkills": [
+        {
+          "skillName": "Postgresql",
+          "fontAwesomeClassname": "logos:postgresql"
+        },
+        {
+          "skillName": "MongoDB",
+          "fontAwesomeClassname": "simple-icons:mongodb",
+          "style": {
+            "color": "#47A248"
+          }
+        },
+        {
+          "skillName": "MySql",
+          "fontAwesomeClassname": "simple-icons:mysql"
+        },
+        {
+          "skillName": "Microsoft SQL Server",
+          "fontAwesomeClassname": "simple-icons:microsoftsqlserver"
+        }
+      ]
+    }
+  ]
 }
