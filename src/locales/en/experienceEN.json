@@ -8,6 +8,20 @@
       "experiences": [
         {
           "title": "Fullstack software developer",
+          "company": "SC Global Tubular Solutions (SCGTS)",
+          "company_url": "http://www.scgts.com/",
+          "logo_path": "SCGTS_logo.jpg",
+          "duration": "September 2021 - Present",
+          "location": "Houston, Texas | Remote",
+          "description": [
+            "⚡ Support end-to-end sales software provided by the company",
+            "⚡ User onboarding on cloud software service",
+            "⚡ Salesforce API implementation for the current company sales software",
+            "⚡ Write kotlin code for mobile development processes"
+          ]
+        },
+        {
+          "title": "Fullstack software developer",
           "company": "Tiresia Soluciones Tecnologicas S.A.S.",
           "company_url": "https://tiresia.com.co/",
           "logo_path": "Tiresia_logo.png",
@@ -19,20 +33,6 @@
             "⚡ Create the Graphql API to consume from the frontend application",
             "⚡ Write front-end code in typescript (angular)",
             "⚡ Unit test the functionalities in both front and back sides of the software"
-          ]
-        },
-        {
-          "title": "Fullstack software developer",
-          "company": "SC Global Tubular Solutions (SCGTS)",
-          "company_url": "http://www.scgts.com/",
-          "logo_path": "SCGTS_logo.jpg",
-          "duration": "September 2021 - Present",
-          "location": "Houston, Texas | Remote",
-          "description": [
-            "⚡ Support end-to-end sales software provided by the company",
-            "⚡ User onboarding on cloud software service",
-            "⚡ Salesforce API implementation for the current company sales software",
-            "⚡ Write kotlin code for mobile development processes"
           ]
         }
       ]

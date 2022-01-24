@@ -8,6 +8,20 @@
       "experiences": [
         {
           "title": "Desarrollador de software fullstack",
+          "company": "SC Global Tubular Solutions (SCGTS)",
+          "company_url": "http://www.scgts.com/",
+          "logo_path": "SCGTS_logo.jpg",
+          "duration": "Septiembre 2021 - Presente",
+          "location": "Houston, Texas | Remoto",
+          "description": [
+            "⚡ Soporte de software de ventas de extremo a extremo proporcionado por la empresa",
+            "⚡ Incorporación de usuarios en el servicio de software en la nube",
+            "⚡ Implementación de la API de Salesforce para el software de ventas de la empresa actual",
+            "⚡ Escribir código kotlin para procesos de desarrollo móvil"
+          ]
+        },
+        {
+          "title": "Desarrollador de software fullstack",
           "company": "Tiresia Soluciones Tecnologicas S.A.S.",
           "company_url": "https://tiresia.com.co/",
           "logo_path": "Tiresia_logo.png",
@@ -19,20 +33,6 @@
             "⚡ Crear la API Graphql para consumir desde la aplicación frontend",
             "⚡ Escribir el código de front-end en Typescript (angular)",
             "⚡ Prueba unitaria de las funcionalidades tanto en el frontend como en el backend del software"
-          ]
-        },
-        {
-          "title": "Desarrollador de software fullstack",
-          "company": "SC Global Tubular Solutions (SCGTS)",
-          "company_url": "http://www.scgts.com/",
-          "logo_path": "SCGTS_logo.jpg",
-          "duration": "Septiembre 2021 - Presente",
-          "location": "Houston, Texas | Remoto",
-          "description": [
-            "⚡ Soporte de software de ventas de extremo a extremo proporcionado por la empresa",
-            "⚡ Incorporación de usuarios en el servicio de software en la nube",
-            "⚡ Implementación de la API de Salesforce para el software de ventas de la empresa actual",
-            "⚡ Escribir código kotlin para procesos de desarrollo móvil"
           ]
         }
       ]
